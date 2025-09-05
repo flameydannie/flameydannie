@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, Flamey Here 👋
 
-<!--
-**flameydannie/flameydannie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my backup GitHub account.  
+My main account, where I actively contribute and showcase my projects, is here:  
+👉 [Kalutu on GitHub](https://github.com/Kalutu)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About This Account
+- Serves as a backup for my main GitHub profile.  
+- May contain mirrors or backups of some projects.  
+- For my active projects, contributions, and portfolio, please check out **[Kalutu](https://github.com/Kalutu)**.
+
+---
+
+## Quick Links
+- 🔗 [Main GitHub Account – Kalutu](https://github.com/Kalutu)  
+- 📂 [Explore My Projects](https://github.com/Kalutu?tab=repositories)  
